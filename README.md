@@ -1,4 +1,4 @@
-# Helper for GitHub notifications in Gmail
+# Helper for GitHub notifications in Gmail ChauDM
 
 A web extension for Chrome and Firefox which adds keyboard shortcuts for opening and muting GitHub notification emails.
 
